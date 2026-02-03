@@ -3,7 +3,7 @@
 ![Badge Status](https://img.shields.io/badge/Status-Finalizado-success)
 ![Badge License](https://img.shields.io/badge/Licença-MIT-blue)
 ![Badge Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-yellow)
-
+![Preview](./preview.png)
 > Uma ferramenta de estudo interativa, leve e gamificada para auxiliar no ensino e aprendizado das funções essenciais do Google Planilhas.
 
 ---
